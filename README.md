@@ -209,6 +209,8 @@ labels = {
  Kaggle Data: https://www.kaggle.com/code/gabriellisimone/anime-face-recognizer?scriptVersionId=91838196
  
  Training Info:
+ 
+
   ![__results___22_4](https://user-images.githubusercontent.com/29608176/161310192-e4d08a44-03f3-42ce-8907-27f2f88be8c8.png)
   ![__results___22_0](https://user-images.githubusercontent.com/29608176/161310186-d2c720e0-1070-45b3-8e06-e80a93f4a1e6.png)
   ![__results___22_1](https://user-images.githubusercontent.com/29608176/161310188-b0ec1d4a-94ed-4165-8292-de844d6547cd.png)
